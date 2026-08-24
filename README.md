@@ -59,8 +59,4 @@ Aplicação full stack de gerenciamento visual de tarefas, com boards, colunas, 
   </a>
 </p>
 
----
 
-<p align="center">
-  <i>“Cada linha de código é mais um passo na construção do meu futuro.”</i>
-</p>
