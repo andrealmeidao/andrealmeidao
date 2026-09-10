@@ -35,6 +35,9 @@ Também trabalho com:
 ---
 
 ## ⭐ Projetos em destaque
+### Chatbot RAG
+Chatbot RAG — Plataforma de Consulta Inteligente de Documentos
+🔗 [Acessar repositório](https://github.com/andrealmeidao/Chatbot-RAG)
 
 ### KashDuv
 
