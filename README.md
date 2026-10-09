@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou André de Almeida! 👋</h1>
 
 <p align="center">
-  Técnico em Informática | Desenvolvedor em formação | Entusiasta de programação
+  Técnico em Informática | Desenvolvedor em formação | Estudante de programação
 </p>
 
 <p align="center">
